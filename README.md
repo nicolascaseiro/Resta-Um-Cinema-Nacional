@@ -27,7 +27,7 @@ Uma aplicação web imersiva e interativa desenvolvida em **Python** com **Strea
 
 ```text
 ├── data/
-│   └── filmes.json  # Banco de dados estruturado com os filmes e pôsteres
-├── app.py           # Código principal da aplicação Streamlit
-├── requirements.txt    # Dependências do projeto para deploy
-└── README.md        # Documentação do projeto
+│   └── filmes.json   # Banco de dados estruturado com os filmes e pôsteres
+├── app.py            # Código principal da aplicação Streamlit
+├── requirements.txt  # Dependências do projeto para deploy
+└── README.md         # Documentação do projeto
