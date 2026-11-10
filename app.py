@@ -458,7 +458,7 @@ elif st.session_state.modo == "mata_mata_arena":
             <div style="background: #000; border: 2px solid #5a472c; border-radius: 8px; padding: 4px; height: 380px; margin-bottom: 14px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
                 <img src="{img_c}" style="width: 100%; height: 100%; object-fit: contain; border-radius: 6px;" onerror="this.src='https://via.placeholder.com/250x370/1a140e/e5c158?text={titulo_c.replace(' ', '+')}'">
             </div>
-            <div style="color: #ffffff; font-size: 1.25rem; font-weight: 700; line-height: 1.3; text-transform: uppercase; letter-spacing: 1px;">{titulo_c}</div>
+            <div style="color: #ffffff; font-size: 1.25rem; font-weight: 700; line-height: 1.3; text-transform: uppercase; letter-spacing: 1px;">{titulo_c}🏆</div>
         </div>
         """, unsafe_allow_html=True)
         
