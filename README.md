@@ -2,7 +2,7 @@
 
 Uma aplicação web imersiva e interativa desenvolvida em **Python** com **Streamlit**, dedicada a celebrar e explorar a história do cinema brasileiro através de escolhas pessoais e torneios eliminatórios.
 
-👉 **[Resta Um: Cinema Nacional](COLOQUE_SEU_LINK_DO_STREAMLIT_AQUI)**
+👉 **[Resta Um: Cinema Nacional](https://resta-um-cinema-nacional.streamlit.app)**
 
 ## ✨ Funcionalidades
 
