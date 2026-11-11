@@ -229,8 +229,66 @@ def renderizar_barra_progresso():
     """, unsafe_allow_html=True)
 
 # ----------------- MENU PRINCIPAL -----------------
+
+# ----------------- MENU PRINCIPAL -----------------
 if st.session_state.modo == "menu":
-    st.markdown('<div class="site-title">FILMES NACIONAIS</div>', unsafe_allow_html=True)
+    # 🌟 CSS para padronizar a largura e o formato dos dois botões do topo
+    st.markdown("""
+    <style>
+        div.stLinkButton > a {
+            width: 100% !important;
+            border-radius: 6px !important;
+            font-weight: 700 !important;
+            text-align: center !important;
+        }
+
+        /* 🌟 Efeito verde ao passar o mouse nos botões */
+        div.stButton > button:hover,
+        div.stLinkButton > a:hover {
+            background-color: #008000 !important;
+            color: white !important;
+            border-color: #008000 !important;
+            transition: all 0.2s ease-in-out !important;
+        }
+
+        /* 🌟 Botão Oscar com fundo dourado */
+        div.stLinkButton > a.oscar-button {
+            background: linear-gradient(135deg, #5a472c, #3a2e1b) !important;
+            color: #e5c158 !important;
+            border: 2px solid #e5c158 !important;
+        }
+
+        div.stLinkButton > a.oscar-button:hover {
+            background: #b8860b !important;
+            color: white !important;
+            border-color: #e5c158 !important;
+        }
+    </style>
+    """, unsafe_allow_html=True)
+
+    # 🌟 TOPBAR COM OS DOIS BOTÕES DE NAVEGAÇÃO LADO A LADO COM A MESMA LARGURA
+    col_aba1, col_aba2 = st.columns(2)
+    with col_aba1:
+        # Botão para alternar para a versão Oscar
+        st.markdown("""
+        <a class="oscar-button" href="https://resta-um-oscar.streamlit.app/"
+           target="_self"
+           style="display: block; width: 100%; box-sizing: border-box;
+           padding: 0.55rem 1rem; border-radius: 6px; text-align: center;
+           font-weight: 700; font-size: 0.9rem; text-decoration: none;">
+            🏆 VERSÃO OSCAR
+        </a>
+        """, unsafe_allow_html=True)
+
+    with col_aba2:
+        # Botão Ativo (Cinema Nacional) estilizado com destaque verde
+        st.markdown("""
+        <div style="background: linear-gradient(135deg, #174d32, #103522); color: #55d68b; padding: 0.55rem 1rem; border-radius: 6px; text-align: center; border: 2px solid #55d68b; font-weight: 700; font-size: 0.9rem; box-shadow: 0 4px 10px rgba(0,0,0,0.4);">
+            🇧🇷 VERSÃO CINEMA NACIONAL <span style="font-size: 0.7rem; background: #55d68b; color: #000; padding: 2px 6px; border-radius: 4px; margin-left: 6px;">ATIVO</span>
+        </div>
+        """, unsafe_allow_html=True)
+    
+    st.markdown('<div class="site-title" style="margin-top: 20px;">FILMES DO OSCAR</div>', unsafe_allow_html=True)
     
     st.markdown('<div class="menu-container">', unsafe_allow_html=True)
     if len(st.session_state.filmes_salvos) > 0:
@@ -244,7 +302,6 @@ if st.session_state.modo == "menu":
         st.session_state.modo = "jogo"
         st.rerun()
         
-    # Botão de Mata-Mata sempre visível no menu principal
     if st.button("MATA-MATA"):
         qtd_salvos = len(st.session_state.filmes_salvos)
         if qtd_salvos >= 2:
