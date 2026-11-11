@@ -228,7 +228,6 @@ def renderizar_barra_progresso():
     </div>
     """, unsafe_allow_html=True)
 
-
 # ----------------- MENU PRINCIPAL -----------------
 if st.session_state.modo == "menu":
     # 🌟 CSS para padronizar a largura e o formato dos dois botões do topo
@@ -241,14 +240,23 @@ if st.session_state.modo == "menu":
             text-align: center !important;
         }
 
-        /* 🌟 Botão Oscar com fundo dourado */
+        /* 🌟 Efeito verde ao passar o mouse nos demais botões */
+        div.stButton > button:hover {
+            background-color: #008000 !important;
+            color: white !important;
+            border-color: #008000 !important;
+            transition: all 0.2s ease-in-out !important;
+        }
+
+        /* 🌟 Botão Oscar: normal e dourado ao passar o mouse */
         div.stLinkButton > a.oscar-button,
         div.stLinkButton > a.oscar-button:link,
         div.stLinkButton > a.oscar-button:visited {
-            background: linear-gradient(135deg, #5a472c, #3a2e1b) !important;
+            background: transparent !important;
             color: #e5c158 !important;
             border: 2px solid #e5c158 !important;
             text-decoration: none !important;
+            transition: all 0.2s ease-in-out !important;
         }
 
         div.stLinkButton > a.oscar-button:hover {
@@ -261,6 +269,7 @@ if st.session_state.modo == "menu":
 
     # 🌟 TOPBAR COM OS DOIS BOTÕES DE NAVEGAÇÃO LADO A LADO COM A MESMA LARGURA
     col_aba1, col_aba2 = st.columns(2)
+
     with col_aba1:
         # Botão para alternar para a versão Oscar
         st.markdown("""
@@ -268,9 +277,7 @@ if st.session_state.modo == "menu":
            target="_self"
            style="display: block; width: 100%; box-sizing: border-box;
            padding: 0.55rem 1rem; border-radius: 6px; text-align: center;
-           font-weight: 700; font-size: 0.9rem; text-decoration: none;
-           background: linear-gradient(135deg, #5a472c, #3a2e1b);
-           color: #e5c158; border: 2px solid #e5c158;">
+           font-weight: 700; font-size: 0.9rem; text-decoration: none;">
             🏆 VERSÃO OSCAR
         </a>
         """, unsafe_allow_html=True)
