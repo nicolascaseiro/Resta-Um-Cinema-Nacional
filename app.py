@@ -227,10 +227,10 @@ def renderizar_barra_progresso():
         </div>
     </div>
     """, unsafe_allow_html=True)
-
+    
 # ----------------- MENU PRINCIPAL -----------------
 if st.session_state.modo == "menu":
-    # 🌟 CSS para padronizar a largura e o formato dos dois botões do topo
+    # 🌟 CSS para padronizar a largura e o formato, com efeito DOURADO ao passar o mouse
     st.markdown("""
     <style>
         div.stLinkButton > a {
@@ -240,48 +240,22 @@ if st.session_state.modo == "menu":
             text-align: center !important;
         }
 
-        /* 🌟 Efeito verde ao passar o mouse nos demais botões */
-        div.stButton > button:hover {
-            background-color: #008000 !important;
-            color: white !important;
-            border-color: #008000 !important;
-            transition: all 0.2s ease-in-out !important;
-        }
-
-        /* 🌟 Botão Oscar: normal e dourado ao passar o mouse */
-        div.stLinkButton > a.oscar-button,
-        div.stLinkButton > a.oscar-button:link,
-        div.stLinkButton > a.oscar-button:visited {
-            background: transparent !important;
+        /* 🌟 Efeito DOURADO ao passar o mouse nos botões e links */
+        div.stButton > button:hover,
+        div.stLinkButton > a:hover {
+            background: linear-gradient(135deg, #5a472c, #3a2e1b) !important;
             color: #e5c158 !important;
-            border: 2px solid #e5c158 !important;
-            text-decoration: none !important;
-            transition: all 0.2s ease-in-out !important;
-        }
-
-        div.stLinkButton > a.oscar-button:hover {
-            background: linear-gradient(135deg, #b8860b, #daa520) !important;
-            color: #ffffff !important;
             border-color: #e5c158 !important;
+            transition: all 0.2s ease-in-out !important;
         }
     </style>
     """, unsafe_allow_html=True)
 
     # 🌟 TOPBAR COM OS DOIS BOTÕES DE NAVEGAÇÃO LADO A LADO COM A MESMA LARGURA
     col_aba1, col_aba2 = st.columns(2)
-
     with col_aba1:
-        # Botão para alternar para a versão Oscar
-        st.markdown("""
-        <a class="oscar-button" href="https://resta-um-oscar.streamlit.app/"
-           target="_self"
-           style="display: block; width: 100%; box-sizing: border-box;
-           padding: 0.55rem 1rem; border-radius: 6px; text-align: center;
-           font-weight: 700; font-size: 0.9rem; text-decoration: none;">
-            🏆 VERSÃO OSCAR
-        </a>
-        """, unsafe_allow_html=True)
-
+        # Link para voltar para a versão Oscar (com o novo efeito dourado ao passar o mouse)
+        st.link_button("🏆 VERSÃO OSCAR", "https://resta-um-oscar.streamlit.app/", use_container_width=True)
     with col_aba2:
         # Botão Ativo (Cinema Nacional) estilizado com destaque verde
         st.markdown("""
@@ -290,7 +264,7 @@ if st.session_state.modo == "menu":
         </div>
         """, unsafe_allow_html=True)
     
-    st.markdown('<div class="site-title" style="margin-top: 20px;">FILMES DO OSCAR</div>', unsafe_allow_html=True)
+    st.markdown('<div class="site-title" style="margin-top: 20px;">CINEMA NACIONAL</div>', unsafe_allow_html=True)
     
     st.markdown('<div class="menu-container">', unsafe_allow_html=True)
     if len(st.session_state.filmes_salvos) > 0:
