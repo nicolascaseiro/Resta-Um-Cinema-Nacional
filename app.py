@@ -228,7 +228,6 @@ def renderizar_barra_progresso():
     </div>
     """, unsafe_allow_html=True)
 
-# ----------------- MENU PRINCIPAL -----------------
 
 # ----------------- MENU PRINCIPAL -----------------
 if st.session_state.modo == "menu":
@@ -242,25 +241,19 @@ if st.session_state.modo == "menu":
             text-align: center !important;
         }
 
-        /* 🌟 Efeito verde ao passar o mouse nos botões */
-        div.stButton > button:hover,
-        div.stLinkButton > a:hover {
-            background-color: #008000 !important;
-            color: white !important;
-            border-color: #008000 !important;
-            transition: all 0.2s ease-in-out !important;
-        }
-
         /* 🌟 Botão Oscar com fundo dourado */
-        div.stLinkButton > a.oscar-button {
+        div.stLinkButton > a.oscar-button,
+        div.stLinkButton > a.oscar-button:link,
+        div.stLinkButton > a.oscar-button:visited {
             background: linear-gradient(135deg, #5a472c, #3a2e1b) !important;
             color: #e5c158 !important;
             border: 2px solid #e5c158 !important;
+            text-decoration: none !important;
         }
 
         div.stLinkButton > a.oscar-button:hover {
-            background: #b8860b !important;
-            color: white !important;
+            background: linear-gradient(135deg, #b8860b, #daa520) !important;
+            color: #ffffff !important;
             border-color: #e5c158 !important;
         }
     </style>
@@ -275,7 +268,9 @@ if st.session_state.modo == "menu":
            target="_self"
            style="display: block; width: 100%; box-sizing: border-box;
            padding: 0.55rem 1rem; border-radius: 6px; text-align: center;
-           font-weight: 700; font-size: 0.9rem; text-decoration: none;">
+           font-weight: 700; font-size: 0.9rem; text-decoration: none;
+           background: linear-gradient(135deg, #5a472c, #3a2e1b);
+           color: #e5c158; border: 2px solid #e5c158;">
             🏆 VERSÃO OSCAR
         </a>
         """, unsafe_allow_html=True)
