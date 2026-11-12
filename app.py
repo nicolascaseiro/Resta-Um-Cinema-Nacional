@@ -1,4 +1,5 @@
 import streamlit as st
+import random
 
 # Configuração da Página
 st.set_page_config(
@@ -264,15 +265,17 @@ if st.session_state.modo == "menu":
         </div>
         """, unsafe_allow_html=True)
     
-    st.markdown('<div class="site-title" style="margin-top: 20px;">CINEMA NACIONAL</div>', unsafe_allow_html=True)
+    st.markdown('<div class="site-title" style="margin-top: 20px;">FILMES NACIONAIS</div>', unsafe_allow_html=True)
     
     st.markdown('<div class="menu-container">', unsafe_allow_html=True)
     if len(st.session_state.filmes_salvos) > 0:
         if st.button("CONTINUAR"):
+            st.session_state.aviso_mata_mata = None
             st.session_state.modo = "jogo"
             st.rerun()
             
     if st.button("NOVO JOGO"):
+        st.session_state.aviso_mata_mata = None
         st.session_state.indice_ano = 0
         st.session_state.filmes_salvos = {}
         st.session_state.modo = "jogo"
@@ -281,18 +284,31 @@ if st.session_state.modo == "menu":
     if st.button("MATA-MATA"):
         qtd_salvos = len(st.session_state.filmes_salvos)
         if qtd_salvos >= 2:
+            st.session_state.aviso_mata_mata = None
             st.session_state.modo = "mata_mata_config"
             st.rerun()
         elif qtd_salvos == 1:
-            st.warning("Falta mais 1 filme salvo para começar o mata-mata!")
+            st.session_state.aviso_mata_mata = "Falta mais 1 filme salvo para começar o mata-mata!"
         else:
-            st.warning("Faltam 2 filmes salvos para começar o mata-mata!")
+            st.session_state.aviso_mata_mata = "Faltam 2 filmes salvos para começar o mata-mata!"
+
+    # Exibe o st.warning com botão de fechar (✕) ao lado
+    if st.session_state.aviso_mata_mata:
+        col_aviso, col_fechar = st.columns([9, 1])
+        with col_aviso:
+            st.warning(st.session_state.aviso_mata_mata)
+        with col_fechar:
+            if st.button("✕", key="fechar_aviso_mm"):
+                st.session_state.aviso_mata_mata = None
+                st.rerun()
             
     if st.button("PULAR PARA O ANO"):
+        st.session_state.aviso_mata_mata = None
         st.session_state.modo = "pular"
         st.rerun()
 
     if st.button("MINHA SELEÇÃO"):
+        st.session_state.aviso_mata_mata = None
         st.session_state.modo = "rankings"
         st.rerun()
         
@@ -446,7 +462,6 @@ elif st.session_state.modo == "mata_mata_config":
     tipo_chave = st.radio("", ["Por Ordem de Seleção", "Por Chaveamento Aleatório"])
     
     if st.button("INICIAR MATA-MATA"):
-        import random
         filmes_para_batalha = list(st.session_state.filmes_salvos.items()) # Lista de (ano, titulo)
         
         if tipo_chave == "Chaveamento Aleatório":
