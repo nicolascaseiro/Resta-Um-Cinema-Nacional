@@ -231,6 +231,9 @@ def renderizar_barra_progresso():
     
 # ----------------- MENU PRINCIPAL -----------------
 if st.session_state.modo == "menu":
+    # Inicializa o controle do aviso caso ainda não exista
+    if "aviso_mata_mata" not in st.session_state:
+        st.session_state.aviso_mata_mata = None
     # 🌟 CSS para padronizar a largura e o formato, com efeito DOURADO ao passar o mouse
     st.markdown("""
     <style>
