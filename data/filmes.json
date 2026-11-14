@@ -1,4 +1,836 @@
 {
+    "1963": [
+        {
+            "titulo": "BOCA DE OURO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/1/1/1/4/7/111147-golden-mouth-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "BONITINHA, MAS ORDINÁRIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/3/4/6/5/173465-pretty-but-wicked-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CASINHA PEQUENINA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/1/1/6/1/1/111611-casinha-pequenina-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "GANGA ZUMBA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/5/1/3/4/9/151349-ganga-zumba-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "PORTO DAS CAIXAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/7/2/139972-porto-das-caixas-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "VIDAS SECAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/5/1/3/1/6/51316-barren-lives-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1964": [
+        {
+            "titulo": "À MEIA-NOITE LEVAREI SUA ALMA",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4c/Meia_Noite_Levarei_Sua_Alma_CN_0110.jpg"
+        },
+        {
+            "titulo": "A VELHA A FIAR",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/6/7/9/8/256798-brasilianas-8-a-velha-a-fiar-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "DEUS E O DIABO NA TERRA DO SOL",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/09/Poster_Deus_e_o_Diabo_na_Terra_do_Sol.png"
+        },
+        {
+            "titulo": "ESSE MUNDO É MEU",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/4/7/8/4/184784-that-world-and-mine-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "NOITE VAZIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/5/7/140357-men-and-women-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "OS FUZIS",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/7f/Fuzis.jpg"
+        }
+    ],
+    "1965": [
+        {
+            "titulo": "A FALECIDA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/2/1/7/0/182170-the-deceased-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "A HORA E VEZ DE AUGUSTO MATRAGA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/9/8/4/6/139846-the-hour-and-turn-of-augusto-matraga-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O DESAFIO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/7/1/139971-the-dare-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "SÃO PAULO, SOCIEDADE ANÔNIMA",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2b/S%C3%A3o_Paulo%2C_Sociedade_An%C3%B4nima.jpg"
+        },
+        {
+            "titulo": "VEREDA DA SALVAÇÃO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/9/8/5/2/139852-the-obsessed-of-catule-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "VIAGEM AOS SEIOS DE DUÍLIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/1/6/6/2/9/216629-journey-to-duilias-breasts-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1966": [
+        {
+            "titulo": "A ENTREVISTA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/3/9/5/4/7/2/395472-the-interview-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "A GRANDE CIDADE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/9/6/131596-the-big-city-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "AS CARIOCAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/0/3/8/5/2/203852-as-cariocas-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O CORINTIANO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/4/0/3/3/124033-the-corinthian-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O PADRE E A MOÇA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/9/4/1/6/4/94164-the-priest-and-the-girl-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "TODAS AS MULHERES DO MUNDO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/5/7/9/4/175794-all-the-women-in-the-world-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1967": [
+        {
+            "titulo": "A MARGEM",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/3/0/0/8/133008-the-margin-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ESTA NOITE ENCARNAREI NO TEU CADÁVER",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/9/31639-this-night-ill-possess-your-corpse-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "GAROTA DE IPANEMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/7/1/5/6/0/271560-the-girl-from-ipanema-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O CASO DOS IRMÃOS NAVES",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/9/3/0/8/7/93087-the-case-of-the-naves-brothers-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O MENINO E O VENTO",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/91/O_Menino_e_o_Vento.jpg"
+        },
+        {
+            "titulo": "TERRA EM TRANSE",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e8/Terra_em_Transe_cartaz.png"
+        }
+    ],
+    "1968": [
+        {
+            "titulo": "AS AMOROSAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/5/6/140356-the-amorous-ones-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "BLA BLA BLÁ",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/8/4/6/1/168461-blahblahblah-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "JARDIM DE GUERRA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/1/2/5/4/171254-jardim-de-guerra-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O BANDIDO DA LUZ VERMELHA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/4/8/8/0/134880-the-red-light-bandit-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ROBERTO CARLOS EM RITMO DE AVENTURA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/7/7/8/2/137782-roberto-carlos-looking-for-adventure-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "VIAGEM AO FIM DO MUNDO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/8/5/9/8/7/285987-journey-to-the-end-of-the-world-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1969": [
+        {
+            "titulo": "A MULHER DE TODOS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/8/4/8/9/138489-the-woman-of-everyone-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "MACUNAÍMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/5/5/140355-the-palace-of-angels-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "MATOU A FAMÍLIA E FOI AO CINEMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/8/2/1/2/128212-killed-the-family-and-went-to-the-movies-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "METEORANGO KID, HERÓI INTERGALÁTICO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/1/5/4/2/6/215426-meteorango-kid-heroi-intergalactico-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O DRAGÃO DA MALDADE CONTRA O SANTO GUERREIRO",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3f/O_Drag%C3%A3o_da_Maldade_Contra_o_Santo_Guerreiro.jpg"
+        },
+        {
+            "titulo": "SEM ESSA, ARANHA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/4/8/8/2/134882-sem-essa-aranha-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1970": [
+        {
+            "titulo": "COPACABANA MON AMOUR",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/8/4/9/0/138490-copacabana-mon-amour-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O DESPERTAR DA BESTA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/7/6/5/3/3/76533-awakening-of-the-beast-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O LEÃO DE SETE CABEÇAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/5/0/0/6/135006-the-lion-has-seven-heads-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O PALÁCIO DOS ANJOS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/5/5/140355-the-palace-of-angels-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "SEM ESSA, ARANHA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/4/8/8/2/134882-sem-essa-aranha-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "UM É POUCO, DOIS É BOM",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/3/9/4/9/2/0/394920-one-is-few-two-would-fill-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1971": [
+        {
+            "titulo": "A CASA ASSASSINADA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/6/4/5/2/126452-the-murdered-house-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "BANG BANG",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/7/3/0/5/127305-bang-bang-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "COMO ERA GOSTOSO O MEU FRANCÊS",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/1d/Como_Era_Gostoso_o_Meu_Franc%C3%AAs.jpg"
+        },
+        {
+            "titulo": "FINIS HOMINIS: O FIM DO HOMEM",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/7/2/2/3/177223-saint-bernard-1972-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "MEMÓRIAS DE UM ESTRANGULADOR DE LOIRAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/4/3/2/1/174321-memoirs-of-a-strangler-of-blondes-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O PAÍS DE SÃO SARUÊ",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/8/1/1/0/178110-land-of-sao-sarue-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1972": [
+        {
+            "titulo": "AS DEUSAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/5/3/140353-the-goddesses-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CÂNCER",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/9/7/4/4/179744-cancer-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "OS INCONFIDENTES",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/1/8/7/6/61876-the-conspirators-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "QUANDO O CARNAVAL CHEGAR",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/9/2/7/4/179274-when-carnaval-comes-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "QUEM É BETA?",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TbQUoS_FLsWybb4Cwy2iXG5Fs6LVzQ5_Cmue5nz2sw&s=10"
+        },
+        {
+            "titulo": "S. BERNARDO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/7/2/2/3/177223-saint-bernard-1972-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1973": [
+        {
+            "titulo": "A SUPER FÊMEA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/8/1/8/2/68182-a-super-femea-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ALMA NO OLHO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/4/3/254343-soul-in-the-eye-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "COMPASSO DE ESPERA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/4/1/8/7/254187-compasso-de-espera-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "OS HOMENS QUE EU TIVE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/1/1/8/6/3/211863-os-homens-que-eu-tive-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "TODA NUDEZ SERÁ CASTIGADA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/9/9/0/1/9/99019-all-nudity-shall-be-punished-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "VAI TRABALHAR, VAGABUNDO!",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/4/6/7/8/6/246786-vai-trabalhar-vagabundo--0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1974": [
+        {
+            "titulo": "A NOITE DO ESPANTALHO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/8/2/7/6/7/82767-the-night-of-the-scarecrow-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "A RAINHA DIABA",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6a/A_Rainha_Diaba_1974.png"
+        },
+        {
+            "titulo": "EXORCISMO NEGRO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/9/9/6/6/6/99666-the-bloody-exorcism-of-coffin-joe-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O AMULETO DE OGUM",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/7/2/9/0/3/72903-the-amulet-of-ogum-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O ANJO DA NOITE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/3/4/8/140348-angel-of-the-night-1974-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "TRISTE TÓPICO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/4/2/7/6/174276-triste-tropico-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1975": [
+        {
+            "titulo": "CLARO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/5/61955-claro-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "GUERRA CONJUGAL",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/1/8/6/6/61866-conjugal-warfare-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ENIGMAS PARA DEMÔNIOS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/8/9/7/1/9/289719-enigma-for-the-devil-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "IRACEMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/9/2/1/6/3/92163-iracema-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "LILIAN M: RELATÓRIO CONFIDENCIAL",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/9/5/6/2/9/95629-lilian-m-confidential-report-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O REI DA NOITE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/6/8/4/6/186846-king-of-the-night-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1976": [
+        {
+            "titulo": "A QUEDA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/5/1/9/140519-the-fall-1976-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ALELUIA, GRETCHEN",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/1/6/3/1/4/216314-hallelujah-gretchen-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "BACALHAU",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/4/0/9/6/254096-codfish-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "DONA FLOR E SEUS DOIS MARIDOS",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/68/Dona_flor_e_seus_dois_maridos_1.jpg"
+        },
+        {
+            "titulo": "O VAMPIRO DA CINEMATECA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/6/8/1/7/256817-the-vampire-of-the-cinemateque-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "XICA DA SILVA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/7/1/7/4/167174-xica-da-silva-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1977": [
+        {
+            "titulo": "ANCHIETA, JOSÉ DO BRASIL",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/35/A_Dama_do_Lota%C3%A7%C3%A3o.jpg"
+        },
+        {
+            "titulo": "DI",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/1/9/5/0/61950-di-cavalcanti-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "EXCITAÇÃO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/2/4/2/140242-excitation-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "LADRÕES DE CINEMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/7/1/5/6/1/271561-sweet-thieves-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "LÚCIO FLÁVIO, O PASSAGEIRO DA AGONIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/9/9/2/1/129921-lucio-flavio-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "MAR DE ROSAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/5/8/4/0/165840-sea-of-roses-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1978": [
+        {
+            "titulo": "A DAMA DO LOTAÇÃO",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/35/A_Dama_do_Lota%C3%A7%C3%A3o.jpg"
+        },
+        {
+            "titulo": "A LIRA DO DELÍRIO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/6/0/139960-a-lira-do-delirio-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "AS FILHAS DO FOGO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/4/0/2/140402-daughters-of-fire-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CHUVAS DE VERÃO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/9/7/1/6/169716-summer-showers-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "DELÍRIOS DE UM ANORMAL",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/6/1/4/5/166145-leila-diniz-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "TUDO BEM",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/0/9/3/4/180934-everythings-alright-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1979": [
+        {
+            "titulo": "A ILHA DOS PRAZERES PROIBIDOS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/8/2/7/140827-the-island-of-prohibited-pleasures-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "BYE BYE BRAZIL",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/2/8/9/9/22899-bye-bye-brazil-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "EU MATEI LÚCIO FLÁVIO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/4/4/8/2/134482-i-killed-lucio-flavio-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "NOS EMBALOS DE IPANEMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/7/9/1/2/187912-nos-embalos-de-ipanema-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O CAÇADOR DE ESMERALDAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/6/7/2/9/5/267295-o-cacador-de-esmeraldas-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "OS TROMBADINHAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/6/1/4/5/166145-leila-diniz-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1980": [
+        {
+            "titulo": "A IDADE DA TERRA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/3/2/6/9/63269-the-age-of-the-earth-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "A MULHER QUE INVENTOU O AMOR",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/0/0/5/2/140052-the-woman-who-invented-love-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CABARET MINEIRO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/1/1/6/2/121162-suburban-angels-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O HOMEM QUE VIROU SUCO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/2/4/4/6/142446-subway-to-the-stars-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "OS SETE GATINHOS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/6/1/4/5/166145-leila-diniz-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "PIXOTE: A LEI DO MAIS FRACO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/1/3/1/6/161316-after-eight-forever-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1981": [
+        {
+            "titulo": "ABRIGO NUCLEAR",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/5/7/6/9/165769-nuclear-shelter-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "BONITINHA, MAS ORDINÁRIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/5/5/6/0/135560-bonitinha-mas-ordinaria-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ELES NÃO USAM BLACK-TIE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/5/4/5/1/145451-they-don-t-wear-black-tie-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O BEIJO NO ASFALTO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/3/1/3/2/133132-the-asphalt-kiss-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O IMPÉRIO DO DESEJO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/6/1/4/5/166145-leila-diniz-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "OS SALTIMBANCOS TRAPALHÕES",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/7/4/8/3/7/74837-os-saltimbancos-trapalhoes-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1982": [
+        {
+            "titulo": "AMOR ESTRANHO AMOR",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4a/Amor_Estranho_Amor.jpg"
+        },
+        {
+            "titulo": "DAS TRIPAS CORAÇÃO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/6/8/0/9/1/268091-heart-and-guts-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "MENINO DO RIO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/1/3/3/6/3/113363-menino-do-rio-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O HOMEM DO PAU BRASIL",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/1/8/8/5/61885-the-brazilwood-man-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "PRA FRENTE, BRASIL",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/1/8/8/3/131883-go-ahead-brazil--0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "RIO BABILÔNIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/1/4/3/5/3/114353-rio-babilonia-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1983": [
+        {
+            "titulo": "A PRÓXIMA VÍTIMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/4/5/1/0/2/245102-the-next-victim-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "BAR ESPERANÇA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/6/8/1/0/256810-bar-esperanza-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "GABRIELA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/2/9/5/7/22957-gabriela-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "INOCÊNCIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/5/6/139956-innocence-1983-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "SARGENTO GETÚLIO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/3/0/3/5/173035-sargento-getulio-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "TABÚ",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/4/3/3/0/174330-tabu-1983-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1984": [        
+        {
+            "titulo": "BETE BALANÇO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/9/1/4/5/9/191459-bete-balanco-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CABRA MARCADO PARA MORRER",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/7/2/9/6/4/72964-twenty-years-later-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "GAROTA DOURADA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/1/3/3/9/1/113391-garota-dourada-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "JANGO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/1/4/2/0/161420-jango-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "MEMÓRIAS DO CÁRCERE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/0/4/2/8/0/104280-memories-of-prison-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "QUILOMBO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/2/4/3/2/142432-quilombo-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1985": [
+        {
+            "titulo": "A HORA DA ESTRELA",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/be/A_Hora_da_Estrela_%28filme%29.jpg"
+        },
+        {
+            "titulo": "A MARVADA CARNE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/0/0/8/9/9/100899-that-damned-meat-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "COM LICENÇA, EU VOU À LUTA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/3/4/1/4/8/234148-com-licenca-eu-vou-a-luta-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O BEIJO DA MULHER ARANHA",
+            "imagem": "https://thumb.wikimedia.org/wikipedia/pt/thumb/8/8b/Kiss_Of_The_Spiderwoman.jpg/250px-Kiss_Of_The_Spiderwoman.jpg"
+        },
+        {
+            "titulo": "OS AMORES DE UM PISTOLEIRO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/6/9/0/4/176904-a-gunman-named-papaco-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "REI DO RIO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/4/5/5/0/134550-rei-do-rio-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1986": [
+        {
+            "titulo": "BRÁS CUBAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/4/3/3/3/174333-bras-cubas-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CIDADE OCULTA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/8/3/7/9/68379-cidade-oculta-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "EU SEI QUE VOU TE AMAR",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/5f/Eu_Sei_que_Vou_Te_Amar.jpg"
+        },
+        {
+            "titulo": "FILME DEMÊNCIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/3/6/5/9/123659-filme-demencia-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "INFINITA TROPICÁLIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/6/5/3/5/3/8/653538-infinita-tropicalia-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "SONHO SEM FIM",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/3/0/7/6/9/0/307690-sonho-sem-fim-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1987": [
+        {
+            "titulo": "ANJOS DA NOITE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/1/9/3/0/181930-angels-of-the-night-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ANJOS DO ARRABALDE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/1/1/6/2/121162-suburban-angels-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "FELIZ ANO VELHO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/5/3/2/4/1/53241-feliz-ano-velho-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "LEILA DINIZ",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/6/1/4/5/166145-leila-diniz-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "SONHO DE VALSA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/6/1/3/1/6/161316-after-eight-forever-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "UM TREM PARA AS ESTRELAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/2/4/4/6/142446-subway-to-the-stars-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1988": [
+        {
+            "titulo": "A DAMA DO CINE SHANGHAI",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/5/9/2/9/4/59294-a-dama-do-cine-shanghai-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ABOLIÇÃO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/4/3/6/0/254360-abolicao-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "BANANA SPLIT",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/4/7/8/9/9/9/478999-banana-split-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "DEDÉ MAMATA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/5/9/6/1/145961-dede-mamata-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ETERNAMENTE PAGU",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/3/0/9/8/6/0/309860-eternamente-pagu-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ROMANCE DA EMPREGADA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/2/6/1/1/182611-the-story-of-fausta-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1989": [
+        {
+            "titulo": "DIAS MELHORES VIRÃO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/2/3/9/1/0/123910-better-days-ahead-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ILHA DAS FLORES",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDaSCViwqWmTz9AQ2HF9cYlZ4iUjdAcJY5w&s"
+        },
+        {
+            "titulo": "KUARUP",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/2/4/5/2/142452-kuarup-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ÔRÍ",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/3/7/1/6/1/1/371611-ori-1989-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "QUE BOM TE VER VIVA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/6/0/8/7/186087-how-nice-to-see-you-alive-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "SERMÕES",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/4/1/2/3/4/141234-sermoes-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1990": [
+        {
+            "titulo": "ABC DA GREVE",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a1/ABC_da_greve.jpg"
+        },
+        {
+            "titulo": "BEIJO 2348/72",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/9/7/1/7/9/297179-kiss-2348-72-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CÉSIO 137: O PESADELO DE GOIÂNIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/4/7/5/0/174750-cesium-137-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CORPO EM DELITO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/9/0/7/3/6/290736-corpo-em-delito-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "LUA DE CRISTAL",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/0/0/5/0/20050-lua-de-cristal-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "UMA ESCOLA ATRAPALHADA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/0/9/4/5/1/109451-uma-escola-atrapalhada-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1991": [
+        {
+            "titulo": "A GRANDE ARTE",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/15/A_Grande_Arte.jpg"
+        },
+        {
+            "titulo": "A MALDIÇÃO DO SANPAKU",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/3/0/8/4/3/230843-a-maldicao-do-sanpaku-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "INSPETOR FAUSTÃO E O MALANDRO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/7/1/2/0/8/71208-inspetor-faustao-e-o-mallandro-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "MATOU A FAMÍLIA E FOI AO CINEMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/1/4/3/5/1/114351-killed-the-family-and-went-to-the-movies-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "O CORPO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/7/8/7/6/9/278769-o-corpo-0-1000-0-1500-crop.jpg?v=211572965e"
+        },
+        {
+            "titulo": "O FIO DA MEMÓRIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/7/9/1/5/7/179157-the-memory-thread-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1992": [
+        {
+            "titulo": "BOCA DE LIXO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/0/9/2/2/180922-the-scavengers-1992-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "CONTERRÂNEOS VELHOS DE GUERRA",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/11/Conterraneos_velhos.jpg"
+        },
+        {
+            "titulo": "O VIGILANTE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/2/6/4/7/132647-o-vigilante-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "OSWALDIANAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/5/5/2/3/0/255230-oswaldianas-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "PERFUME DE GARDÊNIA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/8/9/2/5/0/289250-scent-of-gardenias-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "PERIGO NEGRO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/5/0/1/3/1/2/501312-perigo-negro-0-1000-0-1500-crop.jpg"
+        }
+    ],
+    "1993": [
+        {
+            "titulo": "A SAGA DO GUERREIRO ALUMIOSO",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/15/12/22/14/15/318105.png"
+        },
+        {
+            "titulo": "ALMA CORSÁRIA",
+            "imagem": "https://thumb.wikimedia.org/wikipedia/pt/thumb/6/60/Alma_corsaria.jpg/250px-Alma_corsaria.jpg"
+        },
+        {
+            "titulo": "CAPITALISMO SELVAGEM",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Capitalismo_Selvagem.jpg"
+        },
+        {
+            "titulo": "O ALIENISTA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/5/9/5/8/1/0/595810-o-alienista-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "VAGAS PARA MOÇAS DE FINO TRATO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/8/3/8/4/8384-foreign-land-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "VÊNUS DE FOGO",
+            "imagem": "https://imgs.search.brave.com/HsTzuIG2m6rXpa7uyJ-SQe2NCnAZXyRXUYL7byybIvQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mc3RhdGljLmNv/bS9tRHRtZVA5bndO/YzAxWDhfc01xeC1x/eFFOS1U9LzM1MHg1/MjUvc21hcnQvZmls/dGVyczpmb3JtYXQo/d2VicCkvbWVkaWEv/bW92aWVzL2NvdmVy/cy8yMDEwLzEyL2Nj/ZmNiM2QxMWRhNWY1/YzcxMTJjZTczYjE2/MGY3YTgyLmpwZw"
+        }
+    ],
+    "1994": [
+        {
+            "titulo": "A TERCEIRA MARGEM DO RIO",
+            "imagem": "https://imgs.search.brave.com/NN5fJScmolDdQ5MGXUZ9Kdf6QF1xHZGbQaxpGGynszc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mc3RhdGljLmNv/bS9Hb0VNQjEyVTRa/Wm9PZ05UekN2cWJ6/UEtvR009LzMyMng0/Nzgvc21hcnQvZmls/dGVyczpmb3JtYXQo/d2VicCkvbWVkaWEv/bW92aWVzL2NvdmVy/cy8yMDEyLzA2LzYx/OTlkMWVjYzhkODli/ZDg0ZDkzZmIwMmU5/YTFkZmEwLmpwZw"
+        },
+        {
+            "titulo": "LAMARCA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/4/5/1/9/184519-lamarca-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "LOUCO POR CINEMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/2/4/0/6/1/4/240614-louco-por-cinema-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "MIL E UMA",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/4/5/3/5/3/2/453532-mil-e-uma-0-1000-0-1500-crop.jpg"
+        },
+        {
+            "titulo": "ROCKY & HUDSON",
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/0e/Rocky_e_Hudson.jpg"
+        },
+        {
+            "titulo": "VEJA ESTA CANÇÃO",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/8/1/6/6/5/181665-rio-s-love-song-0-1000-0-1500-crop.jpg"
+        }
+    ],
     "1995": [
         {
             "titulo": "AS MENINAS",
@@ -83,10 +915,6 @@
             "imagem": "https://a.ltrbxd.com/resized/film-poster/2/4/1/3/1/8/241318-love-and-co--0-1000-0-1500-crop.jpg"
         },
         {
-            "titulo": "BOLEIROS",
-            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/1/1/4/8/11148-boleiros-era-uma-vez-o-futebol--0-1000-0-1500-crop.jpg"
-        },
-        {
             "titulo": "CENTRAL DO BRASIL",
             "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/29/Central_do_Brasil_poster.jpg"
         },
@@ -97,6 +925,10 @@
         {
             "titulo": "O PRIMEIRO DIA",
             "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/24/O_Primeiro_Dia.jpg"
+        },
+        {
+            "titulo": "O VIAJANTE",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/1/3/0/9/6/3/130963-traveller-1998-0-1000-0-1500-crop.jpg"
         },
         {
             "titulo": "SIMÃO, O FANTASMA TRAPALHÃO",
@@ -707,16 +1539,16 @@
             "imagem": "https://a.ltrbxd.com/resized/film-poster/9/2/5/8/9/5/925895-the-clown-s-daughter-0-1000-0-1500-crop.jpg"
         },
         {
-            "titulo": "DEPOIS DO UNIVERSO",
-            "imagem": "https://thumb.wikimedia.org/wikipedia/pt/thumb/0/00/Depois_do_Universo.jpg/250px-Depois_do_Universo.jpg"
-        },
-        {
             "titulo": "EDUARDO E MÔNICA",
             "imagem": "https://thumb.wikimedia.org/wikipedia/pt/thumb/4/4c/Eduardo_e_M%C3%B4nica_%28filme%29.jpg/250px-Eduardo_e_M%C3%B4nica_%28filme%29.jpg"
         },
         {
             "titulo": "MARTE UM",
             "imagem": "https://thumb.wikimedia.org/wikipedia/pt/thumb/e/ea/Marte_Um_2022.jpeg/250px-Marte_Um_2022.jpeg"
+        },
+        {
+            "titulo": "MATO SECO EM CHAMAS",
+            "imagem": "https://a.ltrbxd.com/resized/film-poster/8/3/3/4/4/0/833440-dry-ground-burning-0-1000-0-1500-crop.jpg"
         },
         {
             "titulo": "MEDIDA PROVISÓRIA",
